@@ -1,8 +1,7 @@
-# Dependencies
-node_modules/
-.pnp
-.pnp.js
-
+"devDependencies": {
+  "@vitejs/plugin-react": "^5.0.0",
+  "vite": "^8.0.16"
+}
 # Build output
 dist/
 dist-ssr/
